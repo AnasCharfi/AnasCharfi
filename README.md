@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub followers](https://img.shields.io/github/followers/AnasCharfi?label=Follow&style=social)](https://github.com/AnasCharfi/?tab=follow) [![Linkedin Badge](https://img.shields.io/badge/-Anas%20Charfi-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/anas-charfi/)](https://www.linkedin.com/in/anas-charfi/) 
+[![GitHub followers](https://img.shields.io/github/followers/AnasCharfi?label=Follow&style=social)](https://github.com/AnasCharfi/?tab=follow) [![Linkedin Badge](https://img.shields.io/badge/-Anas%20Charfi-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/anas-charfi/)](https://www.linkedin.com/in/anas-charfi/?target=_blank) 
 [![Twitter Badge](http://img.shields.io/badge/-@CharfiAnas-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/CharfiAnas)](https://twitter.com/CharfiAnas) [![Facebook Badge](http://img.shields.io/badge/-Anas%20ChaRfi-1ca0f1?style=social&logo=facebook&logoColor=blue&link=https://twitter.com/CharfiAnas)](https://twitter.com/CharfiAnas) [![Instagram Badge](https://img.shields.io/badge/-anascharfi-blue?style=social&logo=Instagram&link=https://www.instagram.com/anascharfi/)](https://www.instagram.com/anascharfi/) 
 
