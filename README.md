@@ -1,5 +1,7 @@
 ### Hi there  <span style="color:rgba(101, 175, 240,1);font-family:Monaco;">*beautifull*</span> 👋
-Welcome to my Github Profile,
+
+<img align="center" alt="GIF" src="./GithubGif.gif?raw=true" style="border-radius:10px;" width="1280" height="720" />
+<br>
 
 My Firstname is <b><u>*Anas*</u></b>, how to pronounce it ? Easy :
 * A like : You're **Awe**some
