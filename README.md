@@ -1,7 +1,7 @@
 ### Hi there  <span style="color:rgba(101, 175, 240,1);font-family:Monaco;">*beautifull*</span> 👋
 
 
-<img src="./GithubGif.gif" alt="Anas's GitHub Banner" width="1080" heigth="auto"/>
+<img src="https://github.com/AnasCharfi/AnasCharfi/blob/main/GithubGIF.gif?raw=true" alt="Anas's GitHub Banner" width="1080" heigth="auto"/>
 
 My Firstname is <b><u>*Anas*</u></b>, how to pronounce it ? Easy :
 * A like : You're **Awe**some
