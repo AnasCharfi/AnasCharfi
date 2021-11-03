@@ -1,6 +1,6 @@
 ### Hi there  <span style="color:rgba(101, 175, 240,1);font-family:Monaco;">*beautifull*</span> 👋
 
-<img align="center" alt="GIF" src="https://github.com/AnasCharfi/AnasCharfi/blob/main/GithubGIF.gif?raw=true" style="border-radius:10px;" width="1280" height="720" />
+[![Anas's GitHub Banner](./GithubGif.gif)](https://anascharfi.github.io)
 <br>
 
 My Firstname is <b><u>*Anas*</u></b>, how to pronounce it ? Easy :
