@@ -1,6 +1,6 @@
 ### Hi there  <span style="color:rgba(101, 175, 240,1);font-family:Monaco;">*beautifull*</span> 👋
 
-<a href="https://anascharfi.github.io">
+<a href="https://anascharfi.github.io" target="_blank">
 <img src="https://github.com/AnasCharfi/AnasCharfi/blob/main/GithubGIF.gif?raw=true"  alt="Anas's GitHub Banner" width="1080" heigth="auto"/>
 </a>
 
