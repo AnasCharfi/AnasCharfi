@@ -24,6 +24,7 @@ My Firstname is <b><u>*Anas*</u></b>, how to pronounce it ? Easy :
 ### Last achievement
 Here are some images showing me (in the white shirt) and my teammates winning the prize of the best Business Intelligence project of the academic year "2021-2022" within our engineering degree of the second year at <a href="https://www.esprit.tn">www.esprit.tn</a>
 Special shout-out to our acedemic mentors, project officer and last but not least my Family.
+<a href="https://www.linkedin.com/posts/anas-charfi_esprit-bi-powerabrbi-activity-6938572112051748864-jL33?utm_source=linkedin_share&utm_medium=member_desktop_web">Original post on LinkedIn</a>
 | <img src="https://github.com/AnasCharfi/AnasCharfi/blob/main/last_achievement (0).jpg?raw=true"  alt="Last achievement image 0" width="1080" heigth="auto"/>  | <img src="https://github.com/AnasCharfi/AnasCharfi/blob/main/last_achievement (1).jpg?raw=true"  alt="Last achievement image 1" width="1080" heigth="auto"/>  |
 |---|---|
 |<img src="https://github.com/AnasCharfi/AnasCharfi/blob/main/last_achievement (2).jpg?raw=true"  alt="Last achievement image 2" width="1080" heigth="auto"/>| <img src="https://github.com/AnasCharfi/AnasCharfi/blob/main/last_achievement (3).jpg?raw=true"  alt="Last achievement image 3" width="1080" heigth="auto"/> |
@@ -46,8 +47,7 @@ Special shout-out to our acedemic mentors, project officer and last but not leas
 <a href="https://github.com/braydoncoyer">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasCharfi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-<br>
-<hr>
+
 <a href="https://github.com/braydoncoyer">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=AnasCharfi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Anas's GitHub Stats" />
 </a>
