@@ -17,7 +17,7 @@ My Firstname is <b><u>*Anas*</u></b>, how to pronounce it ? Easy :
 
 [![GitHub followers](https://img.shields.io/github/followers/AnasCharfi?label=Follow&style=social)](https://github.com/AnasCharfi/?tab=follow) [![Linkedin Badge](https://img.shields.io/badge/-Anas%20Charfi-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/anas-charfi/)](https://www.linkedin.com/in/anas-charfi/)
 
-[![Twitter Badge](http://img.shields.io/badge/-@CharfiAnas-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/CharfiAnas)](https://twitter.com/CharfiAnas) [![Facebook Badge](http://img.shields.io/badge/-Anas%20ChaRfi-1ca0f1?style=social&logo=facebook&logoColor=blue&link=https://www.facebook.com/The.Hakerz.Zinger)](https://twitter.com/CharfiAnas) [![Instagram Badge](https://img.shields.io/badge/-anascharfi-blue?style=social&logo=Instagram&link=https://www.instagram.com/anascharfi/)](https://www.instagram.com/anascharfi/)
+
 
 ##### Github account creation was  [![Years Badge](https://badges.pufler.dev/years/AnasCharfi)](https://badges.pufler.dev)
 
@@ -112,8 +112,6 @@ Special shout-out to our acedemic mentors, project officer and last but not leas
 
 
 [![GitHub followers](https://img.shields.io/github/followers/AnasCharfi?label=Follow&style=social)](https://github.com/AnasCharfi/?tab=follow) [![Linkedin Badge](https://img.shields.io/badge/-Anas%20Charfi-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/anas-charfi/)](https://www.linkedin.com/in/anas-charfi/)
-
-[![Twitter Badge](http://img.shields.io/badge/-@CharfiAnas-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/CharfiAnas)](https://twitter.com/CharfiAnas) [![Facebook Badge](http://img.shields.io/badge/-Anas%20ChaRfi-1ca0f1?style=social&logo=facebook&logoColor=blue&link=https://www.facebook.com/The.Hakerz.Zinger)](https://twitter.com/CharfiAnas) [![Instagram Badge](https://img.shields.io/badge/-anascharfi-blue?style=social&logo=Instagram&link=https://www.instagram.com/anascharfi/)](https://www.instagram.com/anascharfi/)
 
 ### Friendly reminder to support
 * Tap Follow on the left and you will make my day
